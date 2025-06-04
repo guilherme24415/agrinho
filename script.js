@@ -47,7 +47,7 @@ window.addEventListener('load', revealOnScroll);
 
 // Carrossel
 const images = [
-  './img/campo.png',
+  './imgChatGPT Image 4 de jun. de 2025, 09_38_15.png',
   './img/malte.png',
   './img/cidade.png'
 ];
