@@ -14,7 +14,7 @@ body {
   line-height: 1.6;
   font-size: 1rem;
   background-color: #f8f4ec;
-  color: #333;
+  color: rgba(0,0,0,0.2);
   transition: background-color 0.3s, color 0.3s;
 }
 
@@ -184,7 +184,7 @@ footer {
   position: fixed;
   right: 10px;
   top: 150px;
-  background: #3f704d;
+  background: #babfbc;
   color: white;
   border: none;
   padding: 8px 12px;
