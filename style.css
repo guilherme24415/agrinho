@@ -153,7 +153,7 @@ section p {
 }
 
 .video-container {
-  max-width: 650px;
+  max-width: 550px;
   margin: 0 auto;
 }
 
@@ -185,7 +185,7 @@ footer {
   position: fixed;
   right: 10px;
   top: 150px;
-  background: #babfbc;
+  background: #000000;
   color: white;
   border: none;
   padding: 8px 12px;
